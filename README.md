@@ -1,3 +1,5 @@
+# BREAKOUT GAME
+
 Este código implementa um jogo inspirado no clássico "Breakout" de 1976 para ser executado em uma placa DE1-SoC. O jogo utiliza a interface VGA para exibir os elementos visuais na tela e o acelerômetro para movimentar a raquete/barra. Além disso, são utilizados botões para reiniciar, pausar e continuar o jogo, e a interrupção de sinal SIGINT (geralmente acionada pelo comando Ctrl+C) é utilizada para encerrar o jogo.
 
 ### Estrutura do Código
